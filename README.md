@@ -1,2 +1,2 @@
 # Python-Notebooks
-The nptebooks are in Python script
+The notebooks are in Python script
